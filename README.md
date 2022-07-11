@@ -2,4 +2,4 @@
 Latest released firmware file and upgrade script for the standalone Gen2 Oscillator.
 
 # Upgrade Instructions
-Refer to the PDF file.
+Clone this repository to your computer, and refer to the Instructions PDF file therein.
